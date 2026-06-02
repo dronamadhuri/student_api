@@ -1,0 +1,10 @@
+GET http://127.0.0.1:8000/
+GET http://127.0.0.1:8000/favicon.ico
+GET http://127.0.0.1:8000/docs
+GET http://127.0.0.1:8000/openapi.json
+POST http://127.0.0.1:8000/login
+GET http://127.0.0.1:8000/
+PUT http://127.0.0.1:8000/students/6
+PUT http://127.0.0.1:8000/students/6
+PUT http://127.0.0.1:8000/students/5
+GET http://127.0.0.1:8000/search?name=Sreeja

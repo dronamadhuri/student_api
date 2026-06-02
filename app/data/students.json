@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Madhuri",
+        "department": "CSE",
+        "email": "madhuri@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Sreeja",
+        "department": "AIML",
+        "email": "sreeja@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Ashmith",
+        "department": "AIML",
+        "email": "ashmith@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Shivasai",
+        "department": "AIML",
+        "email": "shiva@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Ashna",
+        "department": "AIML",
+        "email": "ashna@example.com"
+    }
+]
